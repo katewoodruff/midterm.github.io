@@ -1,0 +1,24 @@
+#box-1
+{
+
+	border:2px solid pink;
+	background-color: pink;
+}
+#ref
+{
+	border: 2px solid black;
+	column-count: 2;
+}
+#ref1
+	{
+		color: pink;
+	}
+
+#anchor1
+	{
+		color:pink;
+	}
+#title 
+	{
+		color:pink;
+	}
